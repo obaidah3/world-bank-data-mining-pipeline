@@ -472,4 +472,4 @@ All outputs are regenerated in `pipeline_data/`. A ZIP archive of all outputs is
 
 ---
 
-*Pipeline version: 1.0 — Data sourced from World Bank Open Data API · Last updated: 2024*
+*Pipeline version: 1.0 — Data sourced from World Bank Open Data API · Last updated: 2026*
