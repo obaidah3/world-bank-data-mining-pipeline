@@ -1,0 +1,1009 @@
+country_code,country_name,indicator_name,indicator_code,year,value,source_url,fetch_ts
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2023,6.753,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192529
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2022,6.546,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192639
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2021,7.441,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192656
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2020,7.974,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192668
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2019,7.851,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192679
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2018,9.855,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192691
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2017,11.767,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192702
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2016,12.45,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192712
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2015,13.052,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192723
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2014,13.105,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192733
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2013,13.154,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192744
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2012,12.597,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192758
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2011,11.849,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192768
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2010,8.757,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192779
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2009,9.087,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192790
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2008,8.517,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192801
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2007,8.8,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192812
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2006,10.49,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192825
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2005,11.049,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192835
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2004,10.32,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192855
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2003,10.91,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192866
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2002,10.01,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192876
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2001,9.26,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192887
+EGY,"Egypt, Arab Rep.",UNEMP,SL.UEM.TOTL.ZS,2000,8.98,https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.192897
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2023,3456.78968456253,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194657
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2022,4233.30783744856,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194697
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2021,3827.35415374308,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194711
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2020,3511.11381026379,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194722
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2019,2962.98892023003,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194732
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2018,2484.70315630508,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194743
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2017,2395.10333299491,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194754
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2016,3270.6287768197,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194766
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2015,3306.98159414141,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194776
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2014,3133.39102265541,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194787
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2013,3025.52563552448,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194803
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2012,2996.0677072015,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194814
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2011,2590.64384891965,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194824
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2010,2455.08194645282,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194835
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2009,2161.63964573927,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194856
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2008,1896.21594269779,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194867
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2007,1547.74170735909,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194877
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2006,1298.97900203124,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194888
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2005,1105.53920713903,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194898
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2004,991.255689145253,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194909
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2003,1031.27556291284,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194919
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2002,1116.82884626213,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194929
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2001,1295.1374184163,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194940
+EGY,"Egypt, Arab Rep.",GDP_PC,NY.GDP.PCAP.CD,2000,1366.09274372613,https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.194950
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2023,33.8847763115546,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227149
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2022,13.8956609775177,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227205
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2021,5.21404940513042,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227219
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2020,5.04493288977538,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227235
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2019,9.15279959324803,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227245
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2018,14.4014657807421,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227255
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2017,29.5066083940038,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227266
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2016,13.8136062148289,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227276
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2015,10.370490343517,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227287
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2014,10.0702154687481,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227297
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2013,9.4697198106492,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227308
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2012,7.11172943343082,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227318
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2011,10.0649259874818,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227328
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2010,11.2651882653185,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227339
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2009,11.7634954386443,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227360
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2008,18.3168316831684,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227370
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2007,9.31896905799229,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227381
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2006,7.64452644526434,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227391
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2005,4.86939696871988,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227402
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2004,11.2706193320519,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227412
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2003,4.50777636319303,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227422
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2002,2.73723855000334,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227432
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2001,2.26975720475955,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227443
+EGY,"Egypt, Arab Rep.",INFLATION,FP.CPI.TOTL.ZG,2000,2.68380535348546,https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.227456
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2023,114535772.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.260982
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2022,112618250.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261040
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2021,110957008.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261055
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2020,109315124.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261066
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2019,107553158.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261077
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2018,105682094.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261088
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2017,103696057.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261098
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2016,101644589.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261109
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2015,99597342.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261119
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2014,97528654.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261129
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2013,95333553.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261139
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2012,93161001.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261149
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2011,91093059.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261159
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2010,89196072.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261169
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2009,87501636.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261180
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2008,85864789.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261191
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2007,84276225.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261201
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2006,82700403.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261216
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2005,81101004.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261227
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2004,79477443.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261237
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2003,77853548.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261247
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2002,76239137.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261257
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2001,74652029.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261267
+EGY,"Egypt, Arab Rep.",POPULATION,SP.POP.TOTL,2000,73083284.0,https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.261277
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2023,71.633,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294689
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2022,71.01,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294750
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2021,68.976,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294764
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2020,69.79,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294775
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2019,71.213,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294786
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2018,70.974,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294796
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2017,70.709,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294808
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2016,70.437,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294819
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2015,70.135,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294830
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2014,69.911,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294841
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2013,69.632,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294852
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2012,69.464,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294862
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2011,69.232,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294876
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2010,69.078,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294886
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2009,68.915,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294897
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2008,68.761,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294907
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2007,68.627,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294918
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2006,68.493,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294928
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2005,68.355,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294938
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2004,68.211,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294949
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2003,68.045,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294959
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2002,67.846,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294969
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2001,67.612,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294980
+EGY,"Egypt, Arab Rep.",LIFE_EXP,SP.DYN.LE00.IN,2000,67.332,https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.294990
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2023,74.01190186,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.296996
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2022,72.19806556,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297035
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2021,72.05599976,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297048
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2020,71.91420096,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297060
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2019,57.2828663990195,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297071
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2018,46.92433676792,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297082
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2017,44.9502042452857,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297093
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2016,41.2480670885772,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297103
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2015,37.8193834276939,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297114
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2014,33.8946039115275,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297129
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2013,29.4,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297140
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2012,26.4,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297150
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2011,25.6,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297161
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2010,21.6,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297194
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2009,20.0,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297205
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2008,18.01,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297216
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2007,16.03,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297226
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2006,13.66,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297237
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2005,12.75,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297248
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2004,11.92,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297258
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2003,4.03788510706701,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297268
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2002,2.71999971465421,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297279
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2001,0.838945611477604,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297290
+EGY,"Egypt, Arab Rep.",INTERNET,IT.NET.USER.ZS,2000,0.641265037504813,https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.297300
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2023,3.638,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379103
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2022,3.65,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379163
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2021,5.349,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379176
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2020,8.055,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379187
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2019,3.669,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379289
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2018,3.896,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379309
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2017,4.355,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379320
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2016,4.869,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379330
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2015,5.28,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379341
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2014,6.168,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379352
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2013,7.375,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379362
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2012,8.069,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379373
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2011,8.949,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379384
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2010,9.633,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379395
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2009,9.254,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379407
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2008,5.784,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379417
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2007,4.622,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379428
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2006,4.623,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379438
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2005,5.084,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379449
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2004,5.529,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379459
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2003,5.989,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379469
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2002,5.783,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379479
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2001,4.731,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379490
+USA,United States,UNEMP,SL.UEM.TOTL.ZS,2000,3.992,https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.379500
+USA,United States,POPULATION,SP.POP.TOTL,2023,336806231.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418194
+USA,United States,POPULATION,SP.POP.TOTL,2022,334017321.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418255
+USA,United States,POPULATION,SP.POP.TOTL,2021,332099760.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418268
+USA,United States,POPULATION,SP.POP.TOTL,2020,331577720.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418279
+USA,United States,POPULATION,SP.POP.TOTL,2019,330226227.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418289
+USA,United States,POPULATION,SP.POP.TOTL,2018,328529577.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418300
+USA,United States,POPULATION,SP.POP.TOTL,2017,326608609.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418311
+USA,United States,POPULATION,SP.POP.TOTL,2016,324353340.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418322
+USA,United States,POPULATION,SP.POP.TOTL,2015,321815121.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418332
+USA,United States,POPULATION,SP.POP.TOTL,2014,319257560.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418343
+USA,United States,POPULATION,SP.POP.TOTL,2013,316726282.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418354
+USA,United States,POPULATION,SP.POP.TOTL,2012,314339099.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418364
+USA,United States,POPULATION,SP.POP.TOTL,2011,311839461.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418374
+USA,United States,POPULATION,SP.POP.TOTL,2010,309378227.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418385
+USA,United States,POPULATION,SP.POP.TOTL,2009,306771529.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418395
+USA,United States,POPULATION,SP.POP.TOTL,2008,304093966.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418407
+USA,United States,POPULATION,SP.POP.TOTL,2007,301231207.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418417
+USA,United States,POPULATION,SP.POP.TOTL,2006,298379912.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418428
+USA,United States,POPULATION,SP.POP.TOTL,2005,295516599.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418439
+USA,United States,POPULATION,SP.POP.TOTL,2004,292805298.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418450
+USA,United States,POPULATION,SP.POP.TOTL,2003,290107933.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418460
+USA,United States,POPULATION,SP.POP.TOTL,2002,287625193.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418475
+USA,United States,POPULATION,SP.POP.TOTL,2001,284968955.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418486
+USA,United States,POPULATION,SP.POP.TOTL,2000,282162411.0,https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.418496
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2023,4.11633838374488,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423869
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2022,8.00279982052121,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423918
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2021,4.69785886363742,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423931
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2020,1.23358439630629,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423942
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2019,1.81221007526021,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423952
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2018,2.44258329692817,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423962
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2017,2.13011000365961,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423974
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2016,1.26158320570536,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.423990
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2015,0.118627135552451,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424001
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2014,1.62222297740817,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424012
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2013,1.46483265562717,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424022
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2012,2.06933726526067,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424033
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2011,3.156841568622,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424042
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2010,1.6400434423899,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424053
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2009,-0.355546266299747,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424063
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2008,3.839100296651,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424072
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2007,2.85267248150138,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424085
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2006,3.22594410070404,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424096
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2005,3.3927468454955,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424105
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2004,2.67723669309172,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424114
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2003,2.27009497336115,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424123
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2002,1.58603162650601,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424133
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2001,2.82617111885407,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424142
+USA,United States,INFLATION,FP.CPI.TOTL.ZG,2000,3.37685727149929,https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.424153
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2023,78.3853658536585,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485582
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2022,77.4341463414634,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485642
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2021,76.3292682926829,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485656
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2020,76.9804878048781,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485667
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2019,78.7878048780488,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485678
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2018,78.6390243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485688
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2017,78.5390243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485700
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2016,78.5390243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485711
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2015,78.690243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485721
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2014,78.8414634146341,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485732
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2013,78.7414634146342,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485742
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2012,78.7414634146342,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485753
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2011,78.6414634146341,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485775
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2010,78.5414634146342,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485786
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2009,78.390243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485796
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2008,78.0390243902439,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485807
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2007,77.9878048780488,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485817
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2006,77.6878048780488,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485828
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2005,77.4878048780488,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485838
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2004,77.4878048780488,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485849
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2003,77.0365853658537,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485859
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2002,76.9365853658537,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485870
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2001,76.8365853658537,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485880
+USA,United States,LIFE_EXP,SP.DYN.LE00.IN,2000,76.6365853658537,https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.485891
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2023,44700.1384177544,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546155
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2022,40988.6396406579,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546218
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2021,43725.0999521245,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546231
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2020,39169.8606000707,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546242
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2019,40408.2848574751,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546252
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2018,41418.1766484844,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546263
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2017,38687.1626407164,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546274
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2016,37024.2157133669,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546289
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2015,36702.4323733379,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546300
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2014,43148.0459288416,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546311
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2013,42669.1795111893,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546324
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2012,40863.5814412333,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546334
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2011,43929.7840873812,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546345
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2010,40694.8211697025,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546355
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2009,41728.0884164132,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546367
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2008,45464.8181385158,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546377
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2007,41486.1907828787,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546388
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2006,36431.5658906555,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546398
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2005,34696.3718316971,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546409
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2004,33644.9282220364,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546419
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2003,29479.5222101175,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546429
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2002,24144.5727019529,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546439
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2001,22331.7948343036,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546450
+FRA,France,GDP_PC,NY.GDP.PCAP.CD,2000,22340.5939516217,https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.546461
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2023,7.335,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577016
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2022,7.303,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577077
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2021,7.871,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577090
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2020,8.009,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577116
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2019,8.415,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577127
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2018,9.018,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577138
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2017,9.409,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577149
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2016,10.057,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577160
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2015,10.354,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577170
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2014,10.273,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577181
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2013,9.913,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577191
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2012,9.841,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577202
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2011,9.228,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577213
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2010,9.279,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577224
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2009,9.122,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577234
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2008,7.386,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577244
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2007,8.008,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577255
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2006,8.832,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577265
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2005,8.882,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577276
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2004,8.914,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577286
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2003,8.306,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577297
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2002,8.702,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577307
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2001,8.61,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577321
+FRA,France,UNEMP,SL.UEM.TOTL.ZS,2000,10.218,https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.577331
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2023,4.8783572650844,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644726
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2022,5.22236748369725,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644787
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2021,1.64233141038393,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644800
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2020,0.476498852725065,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644811
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2019,1.10825492288293,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644821
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2018,1.85081508315492,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644832
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2017,1.03228275064681,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644843
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2016,0.183334861123764,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644853
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2015,0.0375143805125181,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644863
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2014,0.507758822937989,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644874
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2013,0.863715497861804,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644885
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2012,1.95419531613509,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644906
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2011,2.11159795175,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644917
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2010,1.53112270420918,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644928
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2009,0.0876204781574653,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644937
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2008,2.81286194914785,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644948
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2007,1.48799805953859,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644958
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2006,1.67512449608726,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644969
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2005,1.74586936380487,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644982
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2004,2.14208964640238,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.644992
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2003,2.09847219146919,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.645002
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2002,1.92341228727063,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.645012
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2001,1.63478079549599,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.645023
+FRA,France,INFLATION,FP.CPI.TOTL.ZG,2000,1.67595988720928,https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.645033
+FRA,France,POPULATION,SP.POP.TOTL,2023,68372286.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670123
+FRA,France,POPULATION,SP.POP.TOTL,2022,68184457.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670183
+FRA,France,POPULATION,SP.POP.TOTL,2021,67842811.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670196
+FRA,France,POPULATION,SP.POP.TOTL,2020,67601110.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670207
+FRA,France,POPULATION,SP.POP.TOTL,2019,67382061.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670217
+FRA,France,POPULATION,SP.POP.TOTL,2018,67158348.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670227
+FRA,France,POPULATION,SP.POP.TOTL,2017,66918020.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670238
+FRA,France,POPULATION,SP.POP.TOTL,2016,66724104.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670248
+FRA,France,POPULATION,SP.POP.TOTL,2015,66548272.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670258
+FRA,France,POPULATION,SP.POP.TOTL,2014,66312067.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670268
+FRA,France,POPULATION,SP.POP.TOTL,2013,65997932.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670278
+FRA,France,POPULATION,SP.POP.TOTL,2012,65657659.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670289
+FRA,France,POPULATION,SP.POP.TOTL,2011,65340830.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670299
+FRA,France,POPULATION,SP.POP.TOTL,2010,65026211.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670315
+FRA,France,POPULATION,SP.POP.TOTL,2009,64706436.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670325
+FRA,France,POPULATION,SP.POP.TOTL,2008,64375116.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670335
+FRA,France,POPULATION,SP.POP.TOTL,2007,64016890.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670346
+FRA,France,POPULATION,SP.POP.TOTL,2006,63622342.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670356
+FRA,France,POPULATION,SP.POP.TOTL,2005,63180854.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670366
+FRA,France,POPULATION,SP.POP.TOTL,2004,62707588.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670376
+FRA,France,POPULATION,SP.POP.TOTL,2003,62249855.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670386
+FRA,France,POPULATION,SP.POP.TOTL,2002,61812142.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670396
+FRA,France,POPULATION,SP.POP.TOTL,2001,61364377.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670406
+FRA,France,POPULATION,SP.POP.TOTL,2000,60918661.0,https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.670416
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2023,82.8317073170732,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756480
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2022,82.1292682926829,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756544
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2021,82.3243902439024,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756557
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2020,82.1756097560976,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756585
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2019,82.8268292682927,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756595
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2018,82.6756097560976,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756607
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2017,82.5756097560976,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756618
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2016,82.5731707317073,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756628
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2015,82.3219512195122,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756638
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2014,82.719512195122,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756654
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2013,82.219512195122,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756665
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2012,81.9682926829268,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756675
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2011,82.1146341463415,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756686
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2010,81.6634146341463,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756697
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2009,81.4146341463415,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756710
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2008,81.2146341463415,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756720
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2007,81.1121951219512,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756730
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2006,80.8121951219512,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756741
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2005,80.1634146341463,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756751
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2004,80.1634146341463,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756761
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2003,79.1146341463415,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756771
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2002,79.2609756097561,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756780
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2001,79.1585365853659,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756789
+FRA,France,LIFE_EXP,SP.DYN.LE00.IN,2000,79.0560975609756,https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.756800
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2023,81032.262117545,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778015
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2022,76657.2488844403,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778079
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2021,70205.050916026,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778093
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2020,63515.9491807833,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778104
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2019,64746.4506778863,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778120
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2018,62499.8744390068,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778131
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2017,59635.0984397965,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778142
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2016,57638.1018367192,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778153
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2015,56572.9188996063,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778163
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2014,54973.4207515712,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778174
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2013,53179.0127634561,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778184
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2012,51708.4011556577,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778194
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2011,50024.868799398,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778205
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2010,48642.6100179312,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778214
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2009,47194.9433547336,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778225
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2008,48570.0459804586,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778236
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2007,48050.2237771135,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778246
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2006,46302.0008800056,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778256
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2005,44123.4070679055,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778266
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2004,41724.6316287624,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778276
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2003,39490.2749557007,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778286
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2002,37997.7596573051,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778295
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2001,37133.623113437,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778305
+USA,United States,GDP_PC,NY.GDP.PCAP.CD,2000,36329.9560727102,https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.778315
+FRA,France,INTERNET,IT.NET.USER.ZS,2023,86.83635789,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783412
+FRA,France,INTERNET,IT.NET.USER.ZS,2022,85.33331734,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783482
+FRA,France,INTERNET,IT.NET.USER.ZS,2021,86.09548575,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783496
+FRA,France,INTERNET,IT.NET.USER.ZS,2020,84.70639801,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783506
+FRA,France,INTERNET,IT.NET.USER.ZS,2019,83.3397440866883,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783515
+FRA,France,INTERNET,IT.NET.USER.ZS,2018,82.0431867788484,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783525
+FRA,France,INTERNET,IT.NET.USER.ZS,2017,80.5024597243607,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783535
+FRA,France,INTERNET,IT.NET.USER.ZS,2016,79.2698113207547,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783546
+FRA,France,INTERNET,IT.NET.USER.ZS,2015,78.0060377071902,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783556
+FRA,France,INTERNET,IT.NET.USER.ZS,2014,83.7510996681821,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783582
+FRA,France,INTERNET,IT.NET.USER.ZS,2013,81.9198,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783593
+FRA,France,INTERNET,IT.NET.USER.ZS,2012,81.44,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783604
+FRA,France,INTERNET,IT.NET.USER.ZS,2011,77.8199989926706,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783615
+FRA,France,INTERNET,IT.NET.USER.ZS,2010,77.28,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783626
+FRA,France,INTERNET,IT.NET.USER.ZS,2009,71.58,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783638
+FRA,France,INTERNET,IT.NET.USER.ZS,2008,70.68,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783649
+FRA,France,INTERNET,IT.NET.USER.ZS,2007,66.09,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783660
+FRA,France,INTERNET,IT.NET.USER.ZS,2006,46.87,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783670
+FRA,France,INTERNET,IT.NET.USER.ZS,2005,42.87,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783681
+FRA,France,INTERNET,IT.NET.USER.ZS,2004,39.15,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783696
+FRA,France,INTERNET,IT.NET.USER.ZS,2003,36.14,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783707
+FRA,France,INTERNET,IT.NET.USER.ZS,2002,30.18,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783718
+FRA,France,INTERNET,IT.NET.USER.ZS,2001,26.3259035521688,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783729
+FRA,France,INTERNET,IT.NET.USER.ZS,2000,14.3079239430677,https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.783739
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2023,54776.7668235491,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872777
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2022,50506.5179638543,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872851
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2021,52349.2459994422,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872868
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2020,47394.8734504469,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872880
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2019,47656.199739747,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872892
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2018,48916.1686612154,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872901
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2017,45553.9341495339,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872911
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2016,42948.9381932694,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872921
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2015,41929.7549110722,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872931
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2014,48959.5991203133,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872942
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2013,47206.8353514242,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872952
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2012,44718.0159214069,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872963
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2011,47630.9761883572,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872974
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2010,42396.9665976293,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872985
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2009,42471.8868625226,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.872997
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2008,46379.1647953479,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873013
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2007,42350.9217211489,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873024
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2006,36980.3349948954,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873035
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2005,35084.4363546269,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873044
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2004,34566.7359143735,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873054
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2003,30711.1022511331,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873065
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2002,25486.5942008748,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873075
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2001,23878.3641471651,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873085
+DEU,Germany,GDP_PC,NY.GDP.PCAP.CD,2000,23925.8559901991,https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.873094
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2023,3.071,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880722
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2022,3.137,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880782
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2021,3.594,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880797
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2020,3.881,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880808
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2019,3.163,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880818
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2018,3.384,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880828
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2017,3.781,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880837
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2016,4.104,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880847
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2015,4.612,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880858
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2014,4.979,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880869
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2013,5.316,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880883
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2012,5.372,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880894
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2011,5.967,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880904
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2010,7.043,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880914
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2009,7.88,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880924
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2008,7.508,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880934
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2007,8.732,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880945
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2006,10.277,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880954
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2005,11.193,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880964
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2004,10.727,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880974
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2003,9.779,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880983
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2002,8.482,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.880993
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2001,7.773,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.881002
+DEU,Germany,UNEMP,SL.UEM.TOTL.ZS,2000,7.917,https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.881012
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2023,5.94643667725823,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885294
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2022,6.87257438551096,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885338
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2021,3.06666666666673,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885352
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2020,0.144877925813981,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885363
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2019,1.44565976888253,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885373
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2018,1.73216879766941,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885383
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2017,1.50949485109628,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885399
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2016,0.491747008445174,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885409
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2015,0.514426137125456,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885418
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2014,0.906794000434245,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885428
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2013,1.50472330251876,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885437
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2012,2.00848884782956,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885448
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2011,2.07517283735874,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885458
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2010,1.1038103778926,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885467
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2009,0.312739007368446,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885477
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2008,2.62837981637219,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885487
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2007,2.2983440070095,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885498
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2006,1.57742642840563,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885509
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2005,1.54691114751328,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885519
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2004,1.66573696655991,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885530
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2003,1.03422218628562,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885540
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2002,1.42080615551526,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885551
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2001,1.98385731334471,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885582
+DEU,Germany,INFLATION,FP.CPI.TOTL.ZG,2000,1.44026838719741,https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.885595
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2023,81.0414634146342,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977700
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2022,80.6080487804878,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977768
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2021,80.790243902439,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977782
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2020,81.0414634146342,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977793
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2019,81.2926829268293,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977803
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2018,80.8926829268293,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977814
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2017,80.9926829268293,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977825
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2016,80.990243902439,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977835
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2015,80.6414634146341,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977846
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2014,81.090243902439,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977856
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2013,80.490243902439,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977866
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2012,80.5390243902439,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977877
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2011,80.4365853658537,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977887
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2010,79.9878048780488,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977898
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2009,79.8365853658537,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977909
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2008,79.7365853658537,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977919
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2007,79.5341463414634,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977954
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2006,79.1317073170732,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977966
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2005,78.9317073170732,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977977
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2004,78.6804878048781,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.977988
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2003,78.3804878048781,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.978008
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2002,78.2292682926829,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.978022
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2001,78.3292682926829,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.978034
+DEU,Germany,LIFE_EXP,SP.DYN.LE00.IN,2000,77.9268292682927,https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.978045
+DEU,Germany,POPULATION,SP.POP.TOTL,2023,83287273.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985859
+DEU,Germany,POPULATION,SP.POP.TOTL,2022,83177813.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985918
+DEU,Germany,POPULATION,SP.POP.TOTL,2021,83196078.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985942
+DEU,Germany,POPULATION,SP.POP.TOTL,2020,83160871.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985954
+DEU,Germany,POPULATION,SP.POP.TOTL,2019,83092962.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985965
+DEU,Germany,POPULATION,SP.POP.TOTL,2018,82905782.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985976
+DEU,Germany,POPULATION,SP.POP.TOTL,2017,82657002.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985987
+DEU,Germany,POPULATION,SP.POP.TOTL,2016,82348669.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.985997
+DEU,Germany,POPULATION,SP.POP.TOTL,2015,81686611.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986008
+DEU,Germany,POPULATION,SP.POP.TOTL,2014,80982500.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986018
+DEU,Germany,POPULATION,SP.POP.TOTL,2013,80645605.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986029
+DEU,Germany,POPULATION,SP.POP.TOTL,2012,80425823.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986040
+DEU,Germany,POPULATION,SP.POP.TOTL,2011,80274983.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986050
+DEU,Germany,POPULATION,SP.POP.TOTL,2010,81776930.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986061
+DEU,Germany,POPULATION,SP.POP.TOTL,2009,81902307.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986071
+DEU,Germany,POPULATION,SP.POP.TOTL,2008,82110097.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986082
+DEU,Germany,POPULATION,SP.POP.TOTL,2007,82266372.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986096
+DEU,Germany,POPULATION,SP.POP.TOTL,2006,82376451.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986106
+DEU,Germany,POPULATION,SP.POP.TOTL,2005,82469422.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986117
+DEU,Germany,POPULATION,SP.POP.TOTL,2004,82516260.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986127
+DEU,Germany,POPULATION,SP.POP.TOTL,2003,82534176.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986138
+DEU,Germany,POPULATION,SP.POP.TOTL,2002,82488495.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986148
+DEU,Germany,POPULATION,SP.POP.TOTL,2001,82349925.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986158
+DEU,Germany,POPULATION,SP.POP.TOTL,2000,82211508.0,https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.986169
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2023,92.4763763,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990296
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2022,91.62984383,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990345
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2021,91.43060973,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990358
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2020,89.81294133,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990369
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2019,88.1345169091916,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990380
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2018,87.037112092841,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990390
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2017,84.3941537010844,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990401
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2016,84.1652066441212,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990412
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2015,87.5897993525767,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990422
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2014,86.1937006578756,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990432
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2013,84.17,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990443
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2012,82.3499984738392,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990454
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2011,81.26999953602,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990471
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2010,82.0,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990482
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2009,79.0,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990493
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2008,78.0,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990503
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2007,75.16,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990514
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2006,72.16,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990524
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2005,68.71,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990534
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2004,64.73,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990544
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2003,55.9,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990555
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2002,48.82,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990580
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2001,31.650939416316,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990591
+DEU,Germany,INTERNET,IT.NET.USER.ZS,2000,30.2163466048889,https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:17.990601
+USA,United States,INTERNET,IT.NET.USER.ZS,2023,93.52559662,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.001993
+USA,United States,INTERNET,IT.NET.USER.ZS,2022,92.72850037,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002048
+USA,United States,INTERNET,IT.NET.USER.ZS,2021,91.2684021,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002062
+USA,United States,INTERNET,IT.NET.USER.ZS,2020,90.34470367,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002074
+USA,United States,INTERNET,IT.NET.USER.ZS,2019,89.4302848575712,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002085
+USA,United States,INTERNET,IT.NET.USER.ZS,2018,88.498903165152,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002096
+USA,United States,INTERNET,IT.NET.USER.ZS,2017,87.2748891687657,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002106
+USA,United States,INTERNET,IT.NET.USER.ZS,2016,85.5444212887222,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002120
+USA,United States,INTERNET,IT.NET.USER.ZS,2015,74.5542024462761,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002131
+USA,United States,INTERNET,IT.NET.USER.ZS,2014,73.0,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002141
+USA,United States,INTERNET,IT.NET.USER.ZS,2013,71.4,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002152
+USA,United States,INTERNET,IT.NET.USER.ZS,2012,74.7,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002163
+USA,United States,INTERNET,IT.NET.USER.ZS,2011,69.7294607619268,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002173
+USA,United States,INTERNET,IT.NET.USER.ZS,2010,71.69,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002184
+USA,United States,INTERNET,IT.NET.USER.ZS,2009,71.0,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002195
+USA,United States,INTERNET,IT.NET.USER.ZS,2008,74.0,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002206
+USA,United States,INTERNET,IT.NET.USER.ZS,2007,75.0,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002217
+USA,United States,INTERNET,IT.NET.USER.ZS,2006,68.93119812,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002227
+USA,United States,INTERNET,IT.NET.USER.ZS,2005,67.9681015,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002238
+USA,United States,INTERNET,IT.NET.USER.ZS,2004,64.7582564759896,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002248
+USA,United States,INTERNET,IT.NET.USER.ZS,2003,61.6971171244207,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002258
+USA,United States,INTERNET,IT.NET.USER.ZS,2002,58.7854038836952,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002267
+USA,United States,INTERNET,IT.NET.USER.ZS,2001,49.0808315896951,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002321
+USA,United States,INTERNET,IT.NET.USER.ZS,2000,43.0791626375201,https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.002334
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2023,4.67,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081339
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2022,4.98,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081389
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2021,4.55,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081398
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2020,5.0,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081417
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2019,4.56,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081426
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2018,4.31,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081439
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2017,4.47,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081445
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2016,4.56,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081451
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2015,4.65,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081457
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2014,4.63,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081463
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2013,4.6,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081469
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2012,4.58,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081475
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2011,4.55,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081487
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2010,4.53,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081493
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2009,4.72,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081499
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2008,4.59,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081506
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2007,4.35,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081512
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2006,4.43,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081518
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2005,4.52,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081524
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2004,4.49,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081530
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2003,4.58,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081536
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2002,4.24,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081541
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2001,3.8,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081549
+CHN,China,UNEMP,SL.UEM.TOTL.ZS,2000,3.26,https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.081555
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2023,12951.1782397043,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082842
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2022,12970.6056414327,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082882
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2021,12887.4357242941,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082896
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2020,10627.4637989619,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082907
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2019,10342.9009524335,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082918
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2018,10085.6638148819,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082927
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2017,8979.67652709856,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082937
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2016,8254.86859320357,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082947
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2015,8175.33285077393,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082957
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2014,7781.06597484974,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082967
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2013,7147.03518622344,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082977
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2012,6405.0574241349,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082987
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2011,5703.76027973346,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.082996
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2010,4629.24551710077,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083006
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2009,3898.24459158811,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083017
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2008,3523.44302065213,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083027
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2007,2734.72709877693,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083037
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2006,2129.25696999613,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083046
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2005,1777.64496828464,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083056
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2004,1530.92726215723,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083065
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2003,1306.97245408557,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083074
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2002,1163.55957673426,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083089
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2001,1065.40597574519,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083099
+CHN,China,GDP_PC,NY.GDP.PCAP.CD,2000,969.199513696287,https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.083109
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2023,0.23483682889305,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094262
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2022,1.9735755573905,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094305
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2021,0.981015135544881,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094314
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2020,2.41942189457782,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094321
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2019,2.89923416358226,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094328
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2018,2.07479039965576,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094334
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2017,1.59313600071435,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094341
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2016,2.00000182191943,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094347
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2015,1.43702380935654,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094353
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2014,1.9216416278852,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094360
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2013,2.62105001748114,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094366
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2012,2.6195243264554,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094372
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2011,5.55389892257493,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094379
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2010,3.17532475269199,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094389
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2009,-0.728165250932898,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094396
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2008,5.92525137041091,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094403
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2007,4.81676767378834,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094409
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2006,1.64943099455859,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094415
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2005,1.7764140766757,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094421
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2004,3.82463743108159,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094427
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2003,1.12760348729637,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094435
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2002,-0.731970902350243,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094442
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2001,0.719125609120113,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094448
+CHN,China,INFLATION,FP.CPI.TOTL.ZG,2000,0.347811226864586,https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.094453
+CHN,China,POPULATION,SP.POP.TOTL,2023,1410710000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114780
+CHN,China,POPULATION,SP.POP.TOTL,2022,1412175000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114841
+CHN,China,POPULATION,SP.POP.TOTL,2021,1412360000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114856
+CHN,China,POPULATION,SP.POP.TOTL,2020,1411100000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114867
+CHN,China,POPULATION,SP.POP.TOTL,2019,1407745000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114876
+CHN,China,POPULATION,SP.POP.TOTL,2018,1402760000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114887
+CHN,China,POPULATION,SP.POP.TOTL,2017,1396215000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114897
+CHN,China,POPULATION,SP.POP.TOTL,2016,1387790000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114907
+CHN,China,POPULATION,SP.POP.TOTL,2015,1379860000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114917
+CHN,China,POPULATION,SP.POP.TOTL,2014,1371860000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114931
+CHN,China,POPULATION,SP.POP.TOTL,2013,1363240000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114943
+CHN,China,POPULATION,SP.POP.TOTL,2012,1354190000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114953
+CHN,China,POPULATION,SP.POP.TOTL,2011,1345035000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114962
+CHN,China,POPULATION,SP.POP.TOTL,2010,1337705000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114973
+CHN,China,POPULATION,SP.POP.TOTL,2009,1331260000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114983
+CHN,China,POPULATION,SP.POP.TOTL,2008,1324655000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.114992
+CHN,China,POPULATION,SP.POP.TOTL,2007,1317885000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115002
+CHN,China,POPULATION,SP.POP.TOTL,2006,1311020000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115011
+CHN,China,POPULATION,SP.POP.TOTL,2005,1303720000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115021
+CHN,China,POPULATION,SP.POP.TOTL,2004,1296075000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115030
+CHN,China,POPULATION,SP.POP.TOTL,2003,1288400000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115039
+CHN,China,POPULATION,SP.POP.TOTL,2002,1280400000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115050
+CHN,China,POPULATION,SP.POP.TOTL,2001,1271850000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115061
+CHN,China,POPULATION,SP.POP.TOTL,2000,1262645000.0,https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.115070
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2023,77.953,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.178898
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2022,78.202,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.178968
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2021,78.117,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.178990
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2020,78.019,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179001
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2019,77.94,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179018
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2018,77.709,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179029
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2017,77.235,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179041
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2016,77.214,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179051
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2015,76.975,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179062
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2014,76.714,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179072
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2013,76.452,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179083
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2012,76.2,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179093
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2011,75.889,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179104
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2010,75.668,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179115
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2009,75.317,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179125
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2008,74.833,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179136
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2007,74.789,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179147
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2006,74.404,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179157
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2005,74.085,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179168
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2004,73.727,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179178
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2003,73.385,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179189
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2002,73.034,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179199
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2001,72.675,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179210
+CHN,China,LIFE_EXP,SP.DYN.LE00.IN,2000,72.288,https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.179220
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2023,10377.5897719195,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.194917
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2022,9281.33282136864,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.194980
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2021,7972.53696080695,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195007
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2020,7074.19407495707,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195017
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2019,9029.83304401079,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195027
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2018,9300.66072904004,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195036
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2017,10080.5078722821,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195047
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2016,8836.28546025694,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195057
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2015,8936.1955889444,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195066
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2014,12274.9941630213,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195077
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2013,12458.8903396625,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195105
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2012,12521.7238454434,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195116
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2011,13396.6263158041,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195127
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2010,11403.2840038694,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195137
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2009,8678.6584730653,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195147
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2008,8908.33338467948,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195157
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2007,7409.69003822861,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195166
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2006,5934.14561857454,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195176
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2005,4827.78165890291,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195186
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2004,3663.82262497811,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195198
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2003,3090.6068907839,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195208
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2002,2855.94017137049,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195217
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2001,3176.28975052524,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195226
+BRA,Brazil,GDP_PC,NY.GDP.PCAP.CD,2000,3766.54786339835,https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.195236
+CHN,China,INTERNET,IT.NET.USER.ZS,2023,90.6,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197458
+CHN,China,INTERNET,IT.NET.USER.ZS,2022,75.61131603,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197501
+CHN,China,INTERNET,IT.NET.USER.ZS,2021,73.05323517,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197516
+CHN,China,INTERNET,IT.NET.USER.ZS,2020,70.05275998,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197528
+CHN,China,INTERNET,IT.NET.USER.ZS,2019,64.080881297515,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197538
+CHN,China,INTERNET,IT.NET.USER.ZS,2018,65.35839844,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197548
+CHN,China,INTERNET,IT.NET.USER.ZS,2017,54.3,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197558
+CHN,China,INTERNET,IT.NET.USER.ZS,2016,53.2,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197588
+CHN,China,INTERNET,IT.NET.USER.ZS,2015,50.29999924,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197600
+CHN,China,INTERNET,IT.NET.USER.ZS,2014,47.90000153,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197610
+CHN,China,INTERNET,IT.NET.USER.ZS,2013,45.79999924,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197621
+CHN,China,INTERNET,IT.NET.USER.ZS,2012,42.30009842,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197631
+CHN,China,INTERNET,IT.NET.USER.ZS,2011,38.3,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197641
+CHN,China,INTERNET,IT.NET.USER.ZS,2010,34.3,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197652
+CHN,China,INTERNET,IT.NET.USER.ZS,2009,28.9,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197663
+CHN,China,INTERNET,IT.NET.USER.ZS,2008,22.6,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197678
+CHN,China,INTERNET,IT.NET.USER.ZS,2007,16.0,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197690
+CHN,China,INTERNET,IT.NET.USER.ZS,2006,10.5231526193851,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197701
+CHN,China,INTERNET,IT.NET.USER.ZS,2005,8.52325700269541,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197712
+CHN,China,INTERNET,IT.NET.USER.ZS,2004,7.3,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197722
+CHN,China,INTERNET,IT.NET.USER.ZS,2003,6.2,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197732
+CHN,China,INTERNET,IT.NET.USER.ZS,2002,4.59570433077551,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197743
+CHN,China,INTERNET,IT.NET.USER.ZS,2001,2.63965021485872,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197753
+CHN,China,INTERNET,IT.NET.USER.ZS,2000,1.77591320677415,https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.197763
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2023,7.947,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.223948
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2022,9.231,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224013
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2021,13.158,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224028
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2020,13.697,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224040
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2019,11.936,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224052
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2018,12.329,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224063
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2017,12.792,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224074
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2016,11.58,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224084
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2015,8.538,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224094
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2014,6.755,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224105
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2013,7.071,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224123
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2012,7.251,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224135
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2011,7.578,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224146
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2010,8.42,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224159
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2009,9.419,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224170
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2008,8.268,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224182
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2007,9.28,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224193
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2006,9.692,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224205
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2005,10.551,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224216
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2004,10.072,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224228
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2003,11.168,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224261
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2002,10.641,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224273
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2001,10.649,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224284
+BRA,Brazil,UNEMP,SL.UEM.TOTL.ZS,2000,10.889,https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.224295
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2023,4.59356282283203,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278231
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2022,9.28010608956872,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278299
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2021,8.30165975585673,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278319
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2020,3.21176803803376,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278331
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2019,3.73297621216893,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278343
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2018,3.66485028376728,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278355
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2017,3.44637335032669,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278373
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2016,8.73914352329393,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278386
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2015,9.02990102416136,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278397
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2014,6.32904015516138,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278409
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2013,6.204310666401,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278421
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2012,5.40349914036997,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278433
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2011,6.6364496221309,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278445
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2010,5.03872690108074,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278457
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2009,4.88803479876798,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278469
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2008,5.67859390284168,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278481
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2007,3.64127299102652,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278494
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2006,4.18356812896909,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278505
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2005,6.86953720898964,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278517
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2004,6.59718509985963,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278529
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2003,14.7149197228147,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278541
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2002,8.45016437708331,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278552
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2001,6.84035902487523,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278587
+BRA,Brazil,INFLATION,FP.CPI.TOTL.ZG,2000,7.04414105947265,https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.278605
+BRA,Brazil,POPULATION,SP.POP.TOTL,2023,211140729.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295443
+BRA,Brazil,POPULATION,SP.POP.TOTL,2022,210306415.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295517
+BRA,Brazil,POPULATION,SP.POP.TOTL,2021,209550294.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295535
+BRA,Brazil,POPULATION,SP.POP.TOTL,2020,208660842.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295548
+BRA,Brazil,POPULATION,SP.POP.TOTL,2019,207455459.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295559
+BRA,Brazil,POPULATION,SP.POP.TOTL,2018,206107261.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295599
+BRA,Brazil,POPULATION,SP.POP.TOTL,2017,204703445.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295612
+BRA,Brazil,POPULATION,SP.POP.TOTL,2016,203218114.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295624
+BRA,Brazil,POPULATION,SP.POP.TOTL,2015,201675532.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295635
+BRA,Brazil,POPULATION,SP.POP.TOTL,2014,200085127.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295647
+BRA,Brazil,POPULATION,SP.POP.TOTL,2013,198478299.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295659
+BRA,Brazil,POPULATION,SP.POP.TOTL,2012,196876111.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295670
+BRA,Brazil,POPULATION,SP.POP.TOTL,2011,195284734.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295681
+BRA,Brazil,POPULATION,SP.POP.TOTL,2010,193701929.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295693
+BRA,Brazil,POPULATION,SP.POP.TOTL,2009,192079951.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295704
+BRA,Brazil,POPULATION,SP.POP.TOTL,2008,190367302.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295715
+BRA,Brazil,POPULATION,SP.POP.TOTL,2007,188552320.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295726
+BRA,Brazil,POPULATION,SP.POP.TOTL,2006,186653106.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295737
+BRA,Brazil,POPULATION,SP.POP.TOTL,2005,184688101.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295748
+BRA,Brazil,POPULATION,SP.POP.TOTL,2004,182675143.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295759
+BRA,Brazil,POPULATION,SP.POP.TOTL,2003,180622688.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295770
+BRA,Brazil,POPULATION,SP.POP.TOTL,2002,178503484.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295785
+BRA,Brazil,POPULATION,SP.POP.TOTL,2001,176301203.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295797
+BRA,Brazil,POPULATION,SP.POP.TOTL,2000,174018282.0,https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.295809
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2023,75.848,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328343
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2022,74.872,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328410
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2021,73.038,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328425
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2020,74.506,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328438
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2019,75.809,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328450
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2018,75.633,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328461
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2017,75.383,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328473
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2016,75.081,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328485
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2015,75.106,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328496
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2014,74.823,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328507
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2013,74.609,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328518
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2012,74.335,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328537
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2011,74.047,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328545
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2010,73.779,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328552
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2009,73.457,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328559
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2008,73.111,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328621
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2007,72.73,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328640
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2006,72.296,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328652
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2005,71.832,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328664
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2004,71.361,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328674
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2003,70.884,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328686
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2002,70.396,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328696
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2001,69.98,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328708
+BRA,Brazil,LIFE_EXP,SP.DYN.LE00.IN,2000,69.584,https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.328718
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2023,84.15060238,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.336952
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2022,80.52775094,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337007
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2021,80.68989314,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337022
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2020,81.34269353,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337035
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2019,73.9124399133589,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337047
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2018,70.4342825404361,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337059
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2017,67.4712845236305,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337070
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2016,60.8725400681261,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337082
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2015,58.3279517340924,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337094
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2014,54.5510018796392,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337106
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2013,51.04,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337117
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2012,48.56,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337129
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2011,45.69,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337149
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2010,40.65,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337161
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2009,39.22,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337171
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2008,33.83,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337181
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2007,30.87999916,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337192
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2006,28.17840004,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337204
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2005,21.022747248827,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337217
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2004,19.073672274442,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337228
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2003,13.2075861035303,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337240
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2002,9.14942508560748,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337250
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2001,4.52849486902851,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337262
+BRA,Brazil,INTERNET,IT.NET.USER.ZS,2000,2.87068515854108,https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.337273
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2023,2530.12031278204,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365729
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2022,2347.44829434623,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365803
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2021,2239.61384367482,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365820
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2020,1907.04251637669,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365833
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2019,2041.42863698585,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365844
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2018,1966.25455171679,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365855
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2017,1950.10468280866,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365868
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2016,1707.50892912243,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365885
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2015,1583.99815907985,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365897
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2014,1553.88396075118,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365909
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2013,1432.84397512195,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365921
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2012,1429.32199520032,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365933
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2011,1445.46127486037,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365946
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2010,1347.51939071367,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365959
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2009,1094.94974598436,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365973
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2008,992.519584923828,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.365986
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2007,1021.88707706826,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366000
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2006,801.668353659022,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366013
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2005,710.488080408949,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366026
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2004,624.258826510066,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366039
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2003,544.143133545002,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366051
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2002,469.149928973927,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366064
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2001,450.357900514128,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366075
+IND,India,GDP_PC,NY.GDP.PCAP.CD,2000,442.750218937263,https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.366086
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2023,4.172,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400124
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2022,4.822,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400174
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2021,6.38,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400182
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2020,7.859,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400192
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2019,6.51,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400198
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2018,7.652,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400204
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2017,7.626,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400210
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2016,7.611,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400217
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2015,7.629,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400222
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2014,7.656,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400228
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2013,7.678,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400234
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2012,7.645,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400240
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2011,7.609,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400246
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2010,7.631,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400251
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2009,7.636,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400258
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2008,7.629,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400264
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2007,7.562,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400270
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2006,7.553,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400276
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2005,7.551,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400282
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2004,7.598,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400288
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2003,7.633,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400293
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2002,7.681,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400299
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2001,7.611,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400307
+IND,India,UNEMP,SL.UEM.TOTL.ZS,2000,7.589,https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.400313
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2023,5.64914318907925,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.426969
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2022,6.69903414079852,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427018
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2021,5.13140747176369,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427037
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2020,6.62343677628535,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427044
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2019,3.72950573539129,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427050
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2018,3.9388264669163,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427057
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2017,3.32817337461298,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427063
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2016,4.94821634062141,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427070
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2015,4.90697344127256,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427076
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2014,6.66565671867899,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427082
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2013,10.0178784746102,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427088
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2012,9.47899691419801,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427094
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2011,8.91179336483371,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427100
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2010,11.9893899204244,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427106
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2009,10.8823529411764,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427113
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2008,8.34926704907581,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427119
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2007,6.37288135593231,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427126
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2006,5.79652337561634,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427132
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2005,4.24634362031922,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427141
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2004,3.76725173477515,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427148
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2003,3.80585899528851,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427154
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2002,4.29715203929563,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427159
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2001,3.77929312235637,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427165
+IND,India,INFLATION,FP.CPI.TOTL.ZG,2000,4.0094359104519,https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.427171
+IND,India,POPULATION,SP.POP.TOTL,2023,1438069596.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435123
+IND,India,POPULATION,SP.POP.TOTL,2022,1425423212.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435166
+IND,India,POPULATION,SP.POP.TOTL,2021,1414203896.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435174
+IND,India,POPULATION,SP.POP.TOTL,2020,1402617695.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435181
+IND,India,POPULATION,SP.POP.TOTL,2019,1389030312.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435188
+IND,India,POPULATION,SP.POP.TOTL,2018,1374659064.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435194
+IND,India,POPULATION,SP.POP.TOTL,2017,1359657400.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435200
+IND,India,POPULATION,SP.POP.TOTL,2016,1343944296.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435206
+IND,India,POPULATION,SP.POP.TOTL,2015,1328024498.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435212
+IND,India,POPULATION,SP.POP.TOTL,2014,1312277191.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435218
+IND,India,POPULATION,SP.POP.TOTL,2013,1295829511.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435224
+IND,India,POPULATION,SP.POP.TOTL,2012,1278674502.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435230
+IND,India,POPULATION,SP.POP.TOTL,2011,1261224954.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435236
+IND,India,POPULATION,SP.POP.TOTL,2010,1243481564.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435243
+IND,India,POPULATION,SP.POP.TOTL,2009,1225524753.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435253
+IND,India,POPULATION,SP.POP.TOTL,2008,1207930964.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435260
+IND,India,POPULATION,SP.POP.TOTL,2007,1190676021.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435266
+IND,India,POPULATION,SP.POP.TOTL,2006,1172878890.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435281
+IND,India,POPULATION,SP.POP.TOTL,2005,1154676322.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435302
+IND,India,POPULATION,SP.POP.TOTL,2004,1135991513.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435308
+IND,India,POPULATION,SP.POP.TOTL,2003,1116803006.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435315
+IND,India,POPULATION,SP.POP.TOTL,2002,1097600380.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435321
+IND,India,POPULATION,SP.POP.TOTL,2001,1077898575.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435327
+IND,India,POPULATION,SP.POP.TOTL,2000,1057922733.0,https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.435335
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2023,72.003,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.497983
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2022,71.698,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498038
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2021,67.282,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498049
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2020,70.156,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498055
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2019,70.746,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498061
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2018,70.415,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498068
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2017,70.068,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498074
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2016,69.709,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498080
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2015,69.326,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498086
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2014,68.932,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498092
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2013,68.499,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498097
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2012,68.076,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498103
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2011,67.623,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498109
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2010,67.162,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498115
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2009,66.7,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498121
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2008,66.247,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498127
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2007,65.803,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498132
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2006,65.373,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498145
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2005,64.939,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498151
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2004,64.484,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498158
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2003,64.086,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498163
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2002,63.649,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498170
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2001,63.158,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498176
+IND,India,LIFE_EXP,SP.DYN.LE00.IN,2000,62.749,https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.498182
+IND,India,INTERNET,IT.NET.USER.ZS,2023,60.25230026,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948769
+IND,India,INTERNET,IT.NET.USER.ZS,2022,55.9,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948820
+IND,India,INTERNET,IT.NET.USER.ZS,2021,49.2580986,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948829
+IND,India,INTERNET,IT.NET.USER.ZS,2020,43.40544313,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948836
+IND,India,INTERNET,IT.NET.USER.ZS,2019,29.52350044,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948843
+IND,India,INTERNET,IT.NET.USER.ZS,2018,20.0813000379384,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948850
+IND,India,INTERNET,IT.NET.USER.ZS,2017,18.20000076,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948856
+IND,India,INTERNET,IT.NET.USER.ZS,2016,16.5,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948863
+IND,India,INTERNET,IT.NET.USER.ZS,2015,14.89999962,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948869
+IND,India,INTERNET,IT.NET.USER.ZS,2014,13.5,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948875
+IND,India,INTERNET,IT.NET.USER.ZS,2013,12.30000019,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948881
+IND,India,INTERNET,IT.NET.USER.ZS,2012,11.10000038,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948886
+IND,India,INTERNET,IT.NET.USER.ZS,2011,10.07,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948892
+IND,India,INTERNET,IT.NET.USER.ZS,2010,7.5,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948898
+IND,India,INTERNET,IT.NET.USER.ZS,2009,5.12,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948904
+IND,India,INTERNET,IT.NET.USER.ZS,2008,4.38,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948910
+IND,India,INTERNET,IT.NET.USER.ZS,2007,3.95,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948919
+IND,India,INTERNET,IT.NET.USER.ZS,2006,2.80549986534254,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948925
+IND,India,INTERNET,IT.NET.USER.ZS,2005,2.388099909,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948931
+IND,India,INTERNET,IT.NET.USER.ZS,2004,1.97613649190559,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948938
+IND,India,INTERNET,IT.NET.USER.ZS,2003,1.68648997063625,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948943
+IND,India,INTERNET,IT.NET.USER.ZS,2002,1.53787558175083,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948949
+IND,India,INTERNET,IT.NET.USER.ZS,2001,0.660146377009928,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948955
+IND,India,INTERNET,IT.NET.USER.ZS,2000,0.527532449930946,https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1,2026-05-21T05:43:18.948961
