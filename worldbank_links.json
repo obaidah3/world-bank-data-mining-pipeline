@@ -1,0 +1,269 @@
+{
+  "main_website": {
+    "name": "World Bank Open Data",
+    "url": "https://data.worldbank.org"
+  },
+  "api_base": {
+    "name": "World Bank API v2",
+    "url": "https://api.worldbank.org/v2"
+  },
+  "indicators": [
+    {
+      "code": "NY.GDP.PCAP.CD",
+      "name_en": "GDP per capita (USD)",
+      "name_ar": "الناتج المحلي الإجمالي للفرد",
+      "url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD"
+    },
+    {
+      "code": "SL.UEM.TOTL.ZS",
+      "name_en": "Unemployment rate (%)",
+      "name_ar": "معدل البطالة",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS"
+    },
+    {
+      "code": "FP.CPI.TOTL.ZG",
+      "name_en": "Inflation, CPI (%)",
+      "name_ar": "معدل التضخم",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG"
+    },
+    {
+      "code": "SP.POP.TOTL",
+      "name_en": "Total Population",
+      "name_ar": "إجمالي السكان",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL"
+    },
+    {
+      "code": "SP.DYN.LE00.IN",
+      "name_en": "Life Expectancy (years)",
+      "name_ar": "متوسط العمر المتوقع",
+      "url": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN"
+    },
+    {
+      "code": "IT.NET.USER.ZS",
+      "name_en": "Internet Users (%)",
+      "name_ar": "مستخدمو الإنترنت",
+      "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS"
+    }
+  ],
+  "countries": [
+    {
+      "iso3": "EGY",
+      "iso2": "EG",
+      "name_en": "Egypt",
+      "name_ar": "مصر",
+      "url": "https://data.worldbank.org/country/EG"
+    },
+    {
+      "iso3": "USA",
+      "iso2": "US",
+      "name_en": "United States",
+      "name_ar": "الولايات المتحدة",
+      "url": "https://data.worldbank.org/country/US"
+    },
+    {
+      "iso3": "FRA",
+      "iso2": "FR",
+      "name_en": "France",
+      "name_ar": "فرنسا",
+      "url": "https://data.worldbank.org/country/FR"
+    },
+    {
+      "iso3": "DEU",
+      "iso2": "DE",
+      "name_en": "Germany",
+      "name_ar": "ألمانيا",
+      "url": "https://data.worldbank.org/country/DE"
+    },
+    {
+      "iso3": "CHN",
+      "iso2": "CN",
+      "name_en": "China",
+      "name_ar": "الصين",
+      "url": "https://data.worldbank.org/country/CN"
+    },
+    {
+      "iso3": "BRA",
+      "iso2": "BR",
+      "name_en": "Brazil",
+      "name_ar": "البرازيل",
+      "url": "https://data.worldbank.org/country/BR"
+    },
+    {
+      "iso3": "IND",
+      "iso2": "IN",
+      "name_en": "India",
+      "name_ar": "الهند",
+      "url": "https://data.worldbank.org/country/IN"
+    }
+  ],
+  "api_endpoints": [
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Egypt", "iso3": "EGY", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/EGY/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "USA", "iso3": "USA", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/USA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "France", "iso3": "FRA", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/FRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Germany", "iso3": "DEU", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/DEU/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "China", "iso3": "CHN", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/CHN/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "Brazil", "iso3": "BRA", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/BRA/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "GDP per capita", "code": "NY.GDP.PCAP.CD",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.CD?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "Unemployment", "code": "SL.UEM.TOTL.ZS",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/SL.UEM.TOTL.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "Inflation", "code": "FP.CPI.TOTL.ZG",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/FP.CPI.TOTL.ZG?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "Population", "code": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/SP.POP.TOTL?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "Life Expectancy", "code": "SP.DYN.LE00.IN",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/SP.DYN.LE00.IN?format=json&per_page=100&date=2000:2023&page=1"
+    },
+    {
+      "country": "India", "iso3": "IND", "indicator": "Internet Users", "code": "IT.NET.USER.ZS",
+      "url": "https://api.worldbank.org/v2/country/IND/indicator/IT.NET.USER.ZS?format=json&per_page=100&date=2000:2023&page=1"
+    }
+  ]
+}
